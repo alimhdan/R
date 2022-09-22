@@ -1,0 +1,11 @@
+# GUI R ARIMA
+My project as Research Assistant (OFFICIALLY PATENTED by Kementerian Hukum dan HAM RI)
+
+Patent: https://e-hakcipta.dgip.go.id/index.php/c?code=OWY1NDhiYzI5Y2E5OTk2YTM4YWUzNjJiZGJhNjlhNDQK
+
+Detail GUI Project Result: https://medium.com/@alimhdan2/gui-r-arima-for-modeling-covid-19-cases-in-indonesia-765c2eceaf79
+
+# Description
+GUI Maker
+
+This GUI is used for modeling active cases of Covid-19 in Indonesia (National, DKI Jakarta, West Java, Central Java, and East Java) using the ARIMA method. In this GUI we can choose the division of train and test data, check assumptions automatically, and view the results of model evaluation with test data (based on plots and MAPE).
